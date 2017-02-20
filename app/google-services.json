@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "504118051050",
+    "firebase_url": "https://deafassist-3920d.firebaseio.com",
+    "project_id": "deafassist-3920d",
+    "storage_bucket": "deafassist-3920d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504118051050:android:d9257b03b5bbf873",
+        "android_client_info": {
+          "package_name": "com.example.osamaarshad.deafassist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504118051050-phcu4iv61brjgp30l121enad8uu2tmvd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.osamaarshad.deafassist",
+            "certificate_hash": "45F42161A7815138E893A2F374DB96FDA96A551D"
+          }
+        },
+        {
+          "client_id": "504118051050-84l5tumak79hd38mu3h2m3viip34ugj3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIoJHgPpdNl_pkaMwhEv3riUAy_cP1oVs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504118051050-84l5tumak79hd38mu3h2m3viip34ugj3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
